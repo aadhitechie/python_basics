@@ -1,0 +1,6 @@
+tup = ('one','one','two')
+# print(len(tup))
+# print(tup[0])
+# print(tup[-1])
+# print(tup.index('two'))
+# print(tup.count('one'))
